@@ -20,6 +20,7 @@ Feel free to star this repository to keep track of updates, or open a Pull Reque
 ## 🖥️ 2. Desktop GUI & Multimodal Agents
 *AI frameworks capable of interacting with full operating systems via visual recognition.*
 
+* **[Orkas](https://github.com/Orkas-AI/Orkas)** – An MIT-licensed desktop AI workforce where a Commander plans work and coordinates specialist agents through one chat.
 * **[UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** – ByteDance's open-source multimodal agent stack that processes screenshots to operate mice, keyboards, and multi-app workflows. It sets top benchmarks for end-to-end desktop automation.
 * **[Financial-Services Agent](https://github.com/anthropics/financial-services)** – Anthropic's reference agent stack designed to handle intense research, pitch deck drafting, and data parsing while connecting natively to top enterprise data APIs.
 
