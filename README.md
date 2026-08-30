@@ -36,6 +36,7 @@ Feel free to star this repository to keep track of updates, or open a Pull Reque
 *The foundational building blocks for deploying models completely offline.*
 
 * **[Ollama](https://github.com/ollama/ollama)** – The premier local LLM orchestration runtime tool. Continues to lead open-source momentum with native, one-command setups for running massive models (like DeepSeek and Qwen variants) with local GPU acceleration.
+* **[SandBase Harness](https://github.com/sandbaseai/sandbase-harness)** – A local-first, self-hosted runtime for stateful AI agent sessions with persistent memory, MCP toolsets, approvals, audit/replay, and local, Docker, Kubernetes, or worker execution backends.
 
 ---
 
