@@ -14,6 +14,7 @@ Feel free to star this repository to keep track of updates, or open a Pull Reque
 
 * **[Crush](https://github.com/charmbracelet/crush)** – A glamorous, terminal-based AI coding assistant built using the popular Bubble Tea TUI framework. It offers native context-aware debugging and code generation right inside your terminal.
 * **[Beads](https://github.com/steveyegge/beads)** – A Git-backed persistent memory system designed specifically for AI coding agents. It solves the context-loss problem by storing agent tasks, plans, and dependencies as JSONL files directly in your `.beads/` directory.
+* **[Tale](https://github.com/tale-project/tale)** – An open-source workspace where teams assign coding tasks to configured AI agents running in persistent sandboxes, then review reports and delivered files.
 
 ---
 
